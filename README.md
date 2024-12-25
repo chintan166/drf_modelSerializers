@@ -25,7 +25,8 @@ python3 manage.py runserver 8069
 
 ![image](https://github.com/user-attachments/assets/a89f8334-ae40-4049-9f78-07a0362f94a9)
 
-![image](https://github.com/user-attachments/assets/94188af4-854f-4017-9243-32076ec432b6)
+![image](https://github.com/user-attachments/assets/6f7d7883-0a00-4dd7-bd59-4414d63bfdf9)
+
 
 
 
